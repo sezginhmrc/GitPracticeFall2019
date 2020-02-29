@@ -19,5 +19,11 @@ public class StringPractice {
         // Folder -> GitPracticeFall2019
         // init - it is  a short for initialize
 
+
+        //AFTER UPDATED MY FILE
+
+        String str = "JAVA IS FUN ";
+        System.out.println(str);
+
     }
 }
