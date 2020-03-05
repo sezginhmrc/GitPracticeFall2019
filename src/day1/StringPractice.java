@@ -8,12 +8,12 @@ public class StringPractice {
 
 
         // How to send this into my GitHub ?
-
         // Git local repository and remote repository
 
         // Local is on my computer
         // We create local repository for specific project
         // Then We create remote repository on Github. Last Step is connectin them
+
         // Any git project starts with one command :
         // GIT INIT -> this command will create local repository for you java Project
         // Folder -> GitPracticeFall2019
