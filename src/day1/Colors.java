@@ -6,5 +6,6 @@ public class Colors {
 
         String [] colors = {"Manchester is RED ! ", "NOT BLUE", "GIRESUN IS GREEN", "BLACK","WHITE","YELLOW"};
 
+        System.out.println("MY COLORS");
     }
 }
