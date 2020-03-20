@@ -1,6 +1,8 @@
 package day1;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class Colors {
 
@@ -13,6 +15,13 @@ public class Colors {
         System.out.println(Arrays.toString(colors));
 
 
+        List<String> listofColors = new ArrayList<>(Arrays.asList(colors));
+
+        if(listofColors.get(2).contains("GIRESUN")){
+            System.out.println("COLOR IS GREAT");
+        } else {
+            System.out.println("ORDU KUMEYE ");
+        }
 
     }
 }
