@@ -11,5 +11,8 @@ public class Colors {
         System.out.println("MY COLORS");
 
         System.out.println(Arrays.toString(colors));
+
+
+
     }
 }
