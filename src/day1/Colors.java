@@ -23,7 +23,7 @@ public class Colors {
             System.out.println("ORDU KUMEYE ");
         }
         
-        String = listofColors.get(1) ;
+        String ss = listofColors.get(1) ;
 
     }
 }
