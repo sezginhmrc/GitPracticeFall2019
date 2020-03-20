@@ -22,7 +22,8 @@ public class Colors {
         } else {
             System.out.println("ORDU KUMEYE ");
         }
-
+        
+        String = listofColors.get(1) ;
 
     }
 }
