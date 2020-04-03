@@ -3,4 +3,7 @@ White
 Red
 Yellow
 
+<<<<<<< HEAD
 ikra
+=======
+
