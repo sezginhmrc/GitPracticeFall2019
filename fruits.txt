@@ -6,3 +6,6 @@
 
 dragon fruit
 kabak
+
+pear
+apple
