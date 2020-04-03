@@ -25,7 +25,7 @@ public class Colors {
         
         String ss = listofColors.get(1) ;
         String s1 = listofColors.get(4);
-
+        System.out.println(s1);
 
     }
 }
